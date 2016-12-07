@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html ng-app="app">
+<head>
+    <title>Superfight! (By Li & Jorel)</title>
+    <meta charset="utf-8" />
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/bootstrap-theme.min.css" rel="stylesheet" />
+</head>
+<body ng-controller="myController">
+    <script src="Scripts/angular.min.js"></script>
+    <script src="app/app.module.js"></script>
+    <script src="app/main.js"></script>
+    <script src="Scripts/jquery-1.9.1.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <style>
+        .blackCard, .whiteCard, .blackCardAfter, .whiteCardAfter, .selectedCard, .whiteCardSelected, .blackCardSelected {
+            width: 20vh;
+            height: 30vh;
+            border-radius: 2vh;
+            border: medium solid;
+            outline: none;
+        }
+        .blackCardSelected, .whiteCardSelected { border: medium solid limegreen; }
+        .blackCard, .blackCardAfter, .blackCardSelected { color: #ffffff; background-color: #000000; }
+        .blackCard, .blackCardAfter { border-color: #000000; }
+        .whiteCard, .whiteCardAfter, .whiteCardSelected { color: #000000; background-color: #e5e5e5; }
+        .whiteCard, .whiteCardAfter { border-color: #e5e5e5; }
+        .blackCard:hover, .blackCardSelected { background-color: #222222; }
+        .whiteCard:hover, .whiteCardSelected { background-color: #dddddd; }
+    </style>
+
+    <!--CODE HERE-->
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-6" ng-repeat="player in players">
+                <br />
+                <table ng-show="!player.submitted">
+                    <tr>
+                        <td ng-repeat="card in player.cards.white" align="center" style="padding: 10px">
+                            <button ng-class="{'whiteCardSelected' : card.selected, 'whiteCard' : !card.selected}" ng-click="selectCard(card.value, player, 'W')">
+                                {{card.value}}
+                            </button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td ng-repeat="card in player.cards.black" align="center" style="padding: 10px">
+                            <button ng-class="{'blackCardSelected' : card.selected, 'blackCard' : !card.selected}" ng-click="selectCard(card.value, player, 'B')">
+                                {{card.value}}
+                            </button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <br />
+                            <button class="btn btn-success" ng-click="player.submit()" ng-disabled="cannotSubmit(player)">Submit</button>
+                        </td>
+                    </tr>
+                </table>
+                <table ng-show="player.submitted">
+                    <tr>
+                        <td align="center" style="padding: 10px">
+                            <button class="whiteCardAfter" ng-disabled="player.submitted">
+                                {{player.chosen.white.value}}
+                            </button>
+                        </td>
+                        <td align="center" style="padding: 10px">
+                            <button class="blackCardAfter" ng-disabled="player.submitted">
+                                {{player.chosen.black.value}}
+                            </button>
+                        </td>
+                        <td align="center" style="padding: 10px">
+                            <button class="blackCardAfter" ng-disabled="player.submitted">
+                                {{player.assigned.black.value}}
+                            </button>
+                        </td>
+                    </tr>
+                    <!--<tr>
+                        <td>
+                            <br />
+                            <button class="btn btn-success" ng-click="wonRound(player)">This player wins!</button>
+                        </td>
+                    </tr>-->
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+<!-- TDL: server -->

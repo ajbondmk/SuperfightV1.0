@@ -1,0 +1,38 @@
+﻿Data
+Picard
+Troi
+Riker
+Wesley
+Beverly 
+Geordie
+Guinan
+Lore
+Worf
+Q
+Tasha
+Noonien
+Sisko
+Kira
+Jadzia
+Odo
+Quark
+Garak
+Dukat
+Rom
+Nog
+Julian
+O'Brian
+Jake
+Keiko
+Molly
+Mourn
+Grand Nagus
+Odo lady
+Seven
+The Doctor
+Kirk
+Spock
+Bones
+Chekov
+Scotty
+Ahura

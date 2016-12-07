@@ -1,0 +1,27 @@
+﻿Top half is {{handCharacter}}
+Bottom half is {{handCharacter}}
+Can change into a {{handCharacter}} at will
+Top half is {{handCharacter}}
+Draw a new character card with one new attribute as your sidekick
+Bottom half is {{handCharacter}}
+Bottom half is {{deckCharacter}}
+Eliminate all attributes in this fight
+Can change into a {{handCharacter}} at will
+Draw and play two random attributes from the deck
+Top half is Bottom half is {{handCharacter}}
+Draw a new character card with one new attribute as your sidekick
+Riding a {{deckCharacter}}
+Draw a character card as your 500-pound pet
+Steal one attribute from opponent
+Megafighter! Left leg is _, right leg is _, left arm is _, right arm is _
+Top half is {{deckCharacter}}
+Draw and play two random attributes from the deck
+Top half is {{deckCharacter}}
+Bottom half is {{deckCharacter}}
+Inside a giant robotic {{handCharacter}}
+Steal one attribute from opponent
+Steal one attribute from opponent
+Inside a giant robotic {{deckCharacter}}
+Bottom half is {{deckCharacter}}
+Riding a {{deckCharacter}}
+Duplicate one opponent attribute

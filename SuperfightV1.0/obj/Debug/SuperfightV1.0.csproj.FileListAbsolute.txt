@@ -1,0 +1,40 @@
+c:\users\jorel\documents\visual studio 2015\Projects\SuperfightV1.0\SuperfightV1.0\bin\roslyn\csc.exe
+c:\users\jorel\documents\visual studio 2015\Projects\SuperfightV1.0\SuperfightV1.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jorel\documents\visual studio 2015\Projects\SuperfightV1.0\SuperfightV1.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jorel\documents\visual studio 2015\Projects\SuperfightV1.0\SuperfightV1.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jorel\documents\visual studio 2015\Projects\SuperfightV1.0\SuperfightV1.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jorel\documents\visual studio 2015\Projects\SuperfightV1.0\SuperfightV1.0\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jorel\documents\visual studio 2015\Projects\SuperfightV1.0\SuperfightV1.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jorel\documents\visual studio 2015\Projects\SuperfightV1.0\SuperfightV1.0\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jorel\documents\visual studio 2015\Projects\SuperfightV1.0\SuperfightV1.0\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jorel\documents\visual studio 2015\Projects\SuperfightV1.0\SuperfightV1.0\bin\roslyn\vbc.exe
+c:\users\jorel\documents\visual studio 2015\Projects\SuperfightV1.0\SuperfightV1.0\bin\roslyn\VBCSCompiler.exe
+c:\users\jorel\documents\visual studio 2015\Projects\SuperfightV1.0\SuperfightV1.0\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jorel\documents\visual studio 2015\Projects\SuperfightV1.0\SuperfightV1.0\bin\SuperfightV1.0.dll.config
+c:\users\jorel\documents\visual studio 2015\Projects\SuperfightV1.0\SuperfightV1.0\bin\SuperfightV1.0.dll
+c:\users\jorel\documents\visual studio 2015\Projects\SuperfightV1.0\SuperfightV1.0\bin\SuperfightV1.0.pdb
+c:\users\jorel\documents\visual studio 2015\Projects\SuperfightV1.0\SuperfightV1.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jorel\documents\visual studio 2015\Projects\SuperfightV1.0\SuperfightV1.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jorel\documents\visual studio 2015\Projects\SuperfightV1.0\SuperfightV1.0\obj\Debug\SuperfightV1.0.csprojResolveAssemblyReference.cache
+c:\users\jorel\documents\visual studio 2015\Projects\SuperfightV1.0\SuperfightV1.0\obj\Debug\SuperfightV1.0.dll
+c:\users\jorel\documents\visual studio 2015\Projects\SuperfightV1.0\SuperfightV1.0\obj\Debug\SuperfightV1.0.pdb
+\\TARDIS\web\SuperfightV1.0\SuperfightV1.0\bin\roslyn\csc.exe
+\\TARDIS\web\SuperfightV1.0\SuperfightV1.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\TARDIS\web\SuperfightV1.0\SuperfightV1.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\TARDIS\web\SuperfightV1.0\SuperfightV1.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\TARDIS\web\SuperfightV1.0\SuperfightV1.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\TARDIS\web\SuperfightV1.0\SuperfightV1.0\bin\roslyn\Microsoft.CSharp.Core.targets
+\\TARDIS\web\SuperfightV1.0\SuperfightV1.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\TARDIS\web\SuperfightV1.0\SuperfightV1.0\bin\roslyn\System.Collections.Immutable.dll
+\\TARDIS\web\SuperfightV1.0\SuperfightV1.0\bin\roslyn\System.Reflection.Metadata.dll
+\\TARDIS\web\SuperfightV1.0\SuperfightV1.0\bin\roslyn\vbc.exe
+\\TARDIS\web\SuperfightV1.0\SuperfightV1.0\bin\roslyn\VBCSCompiler.exe
+\\TARDIS\web\SuperfightV1.0\SuperfightV1.0\bin\roslyn\VBCSCompiler.exe.config
+\\TARDIS\web\SuperfightV1.0\SuperfightV1.0\bin\SuperfightV1.0.dll.config
+\\TARDIS\web\SuperfightV1.0\SuperfightV1.0\bin\SuperfightV1.0.dll
+\\TARDIS\web\SuperfightV1.0\SuperfightV1.0\bin\SuperfightV1.0.pdb
+\\TARDIS\web\SuperfightV1.0\SuperfightV1.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\TARDIS\web\SuperfightV1.0\SuperfightV1.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\TARDIS\web\SuperfightV1.0\SuperfightV1.0\obj\Debug\SuperfightV1.0.csprojResolveAssemblyReference.cache
+\\TARDIS\web\SuperfightV1.0\SuperfightV1.0\obj\Debug\SuperfightV1.0.dll
+\\TARDIS\web\SuperfightV1.0\SuperfightV1.0\obj\Debug\SuperfightV1.0.pdb
